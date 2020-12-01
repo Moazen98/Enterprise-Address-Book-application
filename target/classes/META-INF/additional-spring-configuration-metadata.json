@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "spring.datasource.driver",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.driver'"
+  },
+  {
+    "name": "example.demo.exchange",
+    "type": "java.lang.String",
+    "description": "A description for 'example.demo.exchange'"
+  },
+  {
+    "name": "example.demo.routingkey",
+    "type": "java.lang.String",
+    "description": "A description for 'example.demo.routingkey'"
+  },
+  {
+    "name": "example.demo.queue",
+    "type": "java.lang.String",
+    "description": "A description for 'example.demo.queue'"
+  },
+  {
+    "name": "javainuse.rabbitmq.exchange",
+    "type": "java.lang.String",
+    "description": "A description for 'javainuse.rabbitmq.exchange'"
+  },
+  {
+    "name": "javainuse.rabbitmq.queue",
+    "type": "java.lang.String",
+    "description": "A description for 'javainuse.rabbitmq.queue'"
+  },
+  {
+    "name": "javainuse.rabbitmq.routingkey",
+    "type": "java.lang.String",
+    "description": "A description for 'javainuse.rabbitmq.routingkey'"
+  }
+]}
